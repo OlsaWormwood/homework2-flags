@@ -6,7 +6,10 @@ namespace dz3
     {
         static void Main(string[] args)
         {
-            decimal padik = 6;
+            Console.WriteLine("Input the number of padiks:");
+            decimal padik = Console.Read();
+
+            //decimal padik = 6;
             decimal floors = 6;
             decimal flatsByfloor = 3;
 
