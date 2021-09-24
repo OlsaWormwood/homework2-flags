@@ -9,9 +9,9 @@ namespace dz3
             //Console.WriteLine("Enter the number of padiks:");
             //decimal padik = Console.Read();
             //Console.WriteLine("Enter the number of floors:");
-            // decimal floors = Console.Read();
-            // Console.WriteLine("Enter the number of flats by floor:");
-            // decimal flatsByfloor = Console.Read();
+            //decimal floors = Console.Read();
+            //Console.WriteLine("Enter the number of flats by floor:");
+            //decimal flatsByfloor = Console.Read();
 
             decimal padik = 7;
             decimal floors = 12;
