@@ -6,12 +6,16 @@ namespace dz3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Input the number of padiks:");
-            decimal padik = Console.Read();
+            //Console.WriteLine("Enter the number of padiks:");
+            //decimal padik = Console.Read();
+            //Console.WriteLine("Enter the number of floors:");
+            // decimal floors = Console.Read();
+            // Console.WriteLine("Enter the number of flats by floor:");
+            // decimal flatsByfloor = Console.Read();
 
-            //decimal padik = 6;
-            decimal floors = 6;
-            decimal flatsByfloor = 3;
+            decimal padik = 7;
+            decimal floors = 12;
+            decimal flatsByfloor = 5;
 
             decimal pair = Math.Floor(floors / 3);
 
